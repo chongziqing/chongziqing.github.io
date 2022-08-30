@@ -1,16 +1,9 @@
 # Site settings
-name: name
+name: casey
 email: email
 url: url
 description: "A blog and a portfolio"
 author: "author"
-title: "BlogFolio"
-permalink: pretty
-baseurl: /jekyll-theme-blogfolio
-
-# social
-github:
-  username: username
-
-twitter:
-  username: username
+title: "BlogCasey"
+permalink: 
+baseurl:
