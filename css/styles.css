@@ -663,6 +663,27 @@ div.code-tooltip-content {
     border-left: 4px solid var(--drake-accent);
 }
 
+/* pre , code */
+.content,
+.content div,
+.content div pre,
+.content div pre code {
+  overflow-x: auto !important;
+}
+
+.content pre {
+  background: var(--gray-3) !important;
+  padding: 1rem 2rem;
+  margin-bottom: 1.75rem;
+}
+
+.content code {
+  padding: 3px 5px;
+  color: var(--white-2);
+  white-space: pre;
+  background-color: var(--gray-3);
+}
+
 /**
     code render
     Name: IntelliJ IDEA darcula theme
