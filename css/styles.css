@@ -708,8 +708,3 @@ div.code-tooltip-content {
 .cm-s-inner .CodeMirror-selectedtext { background: #214283 !important; }
 .cm-overlay.CodeMirror-selectedtext { background: #B5D6FC !important; }
 .cm-s-inner div.CodeMirror-cursor { border-left: 1px solid #ffffff; }
-
-pre,
-code {
-    background-color: #eef;
-}
