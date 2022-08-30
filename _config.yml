@@ -7,3 +7,5 @@ author: "author"
 title: "BlogCasey"
 permalink: 
 baseurl:
+
+markdown: kramdown
